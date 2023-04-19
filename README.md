@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--
-<a href="https://app.daily.dev/PapiSaaoz_"><img src="https://api.daily.dev/devcards/cea630beacdc44f3b33ef602a19d4019.png?r=syl" width="400" alt="Bastien.B's Dev Card"/></a>
+<a href="https://app.daily.dev/PapiSaaoz_"><img src="https://github.com/Saaoz/Saaoz/blob/main/devcard.svg
+" width="400" alt="Bastien.B's Dev Card"/></a>
 
 Here are some ideas to get you started:
 
