@@ -40,11 +40,9 @@
 
   <h1>Bio</h1>
   
-- :telescope:Currently looking for my first job as a web developer, whether it be FullStack, front-end, or back-end. :telescope:
+- :telescope:I’m currently working as a freelance web developer, creating professional websites for businesses. I specialize in showcase websites, booking platforms, and custom business websites tailored to my clients’ needs.:telescope:
 
-- :zap:I love learning new things, which is why I chose to become a developer. I am currently deepening my knowledge through projects such as a forum. :zap:
-  
-- :zap:In parallel, I am also learning to develop and use libraries and tools like NeoForge/Forge (Java) and Unity/Godot. :zap:
+
 
 </div>
 
