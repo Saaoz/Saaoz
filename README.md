@@ -4,8 +4,8 @@
     <a href="https://www.linkedin.com/in/bastien-b-devweb/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.malt.fr/profile/bastienbourgine">
-      <img src="https://img.shields.io/badge/Malt-red?style=for-the-badge&logo=malt&logoColor=white" alt="Malt Badge"/>
+    <a href="https://saaoz.fr/">
+      <img src="" alt="Portfolio Badge"/>
     </a>
   </div>
 </div>
