@@ -1,11 +1,10 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/1200x/68/b0/7a/68b07a6734ee172fc812f0a61b0fda07.jpg" width="250"/>
+  <a href="https://saaoz.fr/">
+    <img src="https://i.pinimg.com/1200x/68/b0/7a/68b07a6734ee172fc812f0a61b0fda07.jpg" width="150"/>
+  </a>
   <div id="badges">
     <a href="https://www.linkedin.com/in/bastien-b-devweb/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://saaoz.fr/">
-      <img src="" alt="Portfolio Badge"/>
     </a>
   </div>
 </div>
