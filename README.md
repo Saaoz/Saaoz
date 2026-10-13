@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <a href="https://saaoz.fr/">
-    <img src="https://i.pinimg.com/1200x/68/b0/7a/68b07a6734ee172fc812f0a61b0fda07.jpg" width="150"/>
+    <img src="https://i.pinimg.com/736x/dd/00/79/dd0079a1860ab36ef792caa4c122c6c5.jpg" width="150"/>
   </a>
   <div id="badges">
     <a href="https://saaoz.fr/">
