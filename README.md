@@ -3,7 +3,9 @@
     <img src="https://i.pinimg.com/1200x/68/b0/7a/68b07a6734ee172fc812f0a61b0fda07.jpg" width="150"/>
   </a>
   <div id="badges">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRja2Y1cnA4YXRtdHkyYXZvYjdwb25wbXd5d29rMjhqOTljenJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hnuQ7YvnHo3JwMQcRn/giphy.gif" width="50"/>
+    <a href="https://saaoz.fr/">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRja2Y1cnA4YXRtdHkyYXZvYjdwb25wbXd5d29rMjhqOTljenJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hnuQ7YvnHo3JwMQcRn/giphy.gif" width="150"/>
+    </a>
     <a href="https://www.linkedin.com/in/bastien-b-devweb/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
