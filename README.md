@@ -35,7 +35,7 @@
 
   <h1>Bio</h1>
   
-- :telescope:I’m currently working as a freelance web developer, creating professional websites for businesses. I specialize in showcase websites, booking platforms, and custom business websites tailored to my clients’ needs.:telescope:
+- :telescope: Tout mes projets sont en privée, projet crée : 2 extensions chrome et 1 site métier (netilian.com) -> portfolio: saaoz.fr .:telescope:
 
 
 
